@@ -22,8 +22,7 @@
                                    in our own scope.
                                 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2128" alt="2128" /> </p>
-![](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif)
 - 🔭 I’m currently working on **Health Care System using Laravel**
 
 - 👨‍💻 All of my projects are available at [https://saadaslams.com/](https://saadaslams.com/)
