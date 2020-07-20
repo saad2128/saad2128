@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Saad Aslam</h1>
 <h3 align="center">I'm a Cyber Boy in a Cyber World.</h3>
+
+#### 🤔 Who Am I!?
+
+- 🏫 Graduated with a Bachelor’s degree in Computer Sciences from the Government College University,Lahore(GCU).
+- ⚡️ A Web Developer with a good grip on basic front-end development tools including React, , HTML, CSS,Bootstrap and JavaScript along with strong grip on backend frameworks PHP,Laravel Framework,CodeIgnitor Framework, MySQL, and OOP
+- 🚀 Cyber Enthusiast
+
+#### 💡 Some Accomplishments
+
+- 🎯 Founder Tech Tology(https://www.facebook.com/profile.php?id=149950752344023)
+- 🙌 Microsoft Student Partner at Microsoft
+- 🙌 Ambassador at Deep Learning.ai
+- 🙌 Author at C# Corner
+- 🙌 Microsoft Certified Advertising Professional
+
 <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="GIF" align="right">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2128" alt="2128" /> </p>
