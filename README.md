@@ -21,8 +21,10 @@
                                    Good knowledge in CyberSecurity Fundamentals, Networking, Information Security and able to manage security tasks
                                    in our own scope.
                                 </p>
+ <a href="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">Code in a Hacker's Way</a>    
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2128" alt="2128" /> </p>
-![Alt Text](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif)
+
 - 🔭 I’m currently working on **Health Care System using Laravel**
 
 - 👨‍💻 All of my projects are available at [https://saadaslams.com/](https://saadaslams.com/)
