@@ -3,7 +3,7 @@
  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2128" alt="2128" /> </p>
-![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)   
+![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 - 🔭 I’m currently working on **Health Care System using Laravel**
 
