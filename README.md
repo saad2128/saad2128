@@ -1,25 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Aslam</h1>
- <p class="font-ram text-black-50 py-2 bio">
-                                    
-                                    A Web Developer with a good grip on 
-                                    basic front-end development tools including <i>React</i>, 
-                                    , <i>HTML</i>, <i>CSS</i>,<i>Bootstrap</i> and <i>JavaScript</i> along with strong grip on 
-                                    backend frameworks <i>PHP</i>,<i>Laravel Framework</i>,<i>CodeIgnitor Framework</i>, <i>MySQL</i>, 
-                                    and <i>OOP</i> with extensive hands-on experience 
-                                    contributing to several open-source codes. Having a strong background in project 
-                                    management and excellent communication skills</p>
-                                <p class="font-ram text-black-50 py-2 bio">
-                                    A Microsoft 
-                                    Student Partner, Lead of Microsoft Community Lahore.Oragnize sessions on emerging technologies to
-                                    bridge the gap between Academia and Industry.Delivered multilple tech sessions in reputed Universities 
-                                    of Pakistan COMSATS Lahore, FAST NUCES Lahore, UET Lahore and GC University Lahore.Invited as a Guest Speaker
-                                    in multinational workshops to empower Tech Enthusiast.
-                                </p>
-                                <p class="font-ram text-black-50 py-2 bio">
-                                    A Cyber Enthusiast from the pioneer batch of National Institute of Artificial Intelligence and Security(NIAIS).
-                                   Good knowledge in CyberSecurity Fundamentals, Networking, Information Security and able to manage security tasks
-                                   in our own scope.
-                                </p>
+<h3 align="center">I'm a Cyber Boy in a Cyber World.</h3>
  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2128" alt="2128" /> </p>
