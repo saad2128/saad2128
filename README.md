@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad Aslam</h1>
 <h3 align="center">I'm a Cyber Boy in a Cyber World.</h3>
-![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="GIF" align="right">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2128" alt="2128" /> </p>
 
