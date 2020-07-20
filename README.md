@@ -9,7 +9,7 @@
 
 #### 💡 Some Accomplishments
 
-- 🎯 Founder Tech Tology(https://www.facebook.com/profile.php?id=149950752344023)
+- 🎯 Founder Tech Tology
 - 🙌 Microsoft Student Partner at Microsoft
 - 🙌 Ambassador at Deep Learning.ai
 - 🙌 Author at C# Corner
