@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad Aslam</h1>
  <p class="font-ram text-black-50 py-2 bio">
-                                    A Final Year CS Engineering student with grave 
-                                    interest and knowledge in programming and logic building. 
+                                    
                                     A Web Developer with a good grip on 
                                     basic front-end development tools including <i>React</i>, 
                                     , <i>HTML</i>, <i>CSS</i>,<i>Bootstrap</i> and <i>JavaScript</i> along with strong grip on 
@@ -21,7 +20,7 @@
                                    Good knowledge in CyberSecurity Fundamentals, Networking, Information Security and able to manage security tasks
                                    in our own scope.
                                 </p>
- <a href="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">Code in a Hacker's Way</a>    
+ ![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)   
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2128" alt="2128" /> </p>
 
