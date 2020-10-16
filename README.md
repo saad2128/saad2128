@@ -3,7 +3,7 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 Graduated with a Bachelor’s degree in Computer Sciences from the Government College University,Lahore(GCU).
+- 🏫 Bachelor’s degree in Computer Sciences from the Government College University,Lahore(GCU).
 - ⚡️ A Web Developer with a good grip on basic front-end development tools including React, , HTML, CSS,Bootstrap and JavaScript along with strong grip on backend frameworks PHP,Laravel Framework,CodeIgnitor Framework, MySQL, and OOP
 - 🚀 Cyber Enthusiast
 
