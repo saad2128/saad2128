@@ -2,7 +2,7 @@
 Full-Stack Software Engineer | Building Scalable Applications with Java, Spring Boot, and React
 
 ## About Me
-Hi there! I'm Saad, a Software Engineer with over 4 years of experience in full stack development building commercial and scalable systems. I am backend-heavy with a focus on Java/Spring and PHP/Laravel, and also have experience in front-end development, particularly with JavaScript/TypeScript and React, Next.js, and Gatsby. Proficient in designing and implementing RESTful APIs/GraphQL for seamless integration and efficient communication between systems. Experience leading teams of developers and working with cross-functional teams to deliver high-quality software solutions. Programming skills in Java, Python and C++ . Proficient with Docker for streamlining the deployment process also experienced Spring platforms like Spring MVC, Spring Boot, Spring JDBC, and Spring JPA.
+Hi there! I'm Saad, a Software Engineer with over 6 years of experience in full stack development building commercial and scalable systems. I am backend-heavy with a focus on Java/Spring and PHP/Laravel, and also have experience in front-end development, particularly with JavaScript/TypeScript and React, Next.js, and Gatsby. Proficient in designing and implementing RESTful APIs/GraphQL for seamless integration and efficient communication between systems. Experience leading teams of developers and working with cross-functional teams to deliver high-quality software solutions. Programming skills in Java, Python and C++ . Proficient with Docker for streamlining the deployment process also experienced Spring platforms like Spring MVC, Spring Boot, Spring JDBC, and Spring JPA.
 
 ## Development
 ### Languages
